@@ -106,7 +106,7 @@ body {
 }
 
 #headerText {
-  padding-top: 10px;
+  padding-top: 2px;
   padding-left: 16px;
   width: 70%;
   float: left;
@@ -122,8 +122,8 @@ body {
   height: 45px;
   padding-left: 4px;
   padding-top: 3px;
-  font-size: 24px;
-  font-weight: 400;
+  font-size: 30px;
+  font-weight: 420;
   text-align: left;
   white-space: nowrap;
   overflow: hidden;
@@ -155,8 +155,8 @@ form {
   line-height: 18px;
   word-wrap: break-word;
   height: 54px;
-  font-size: 13px;
-  font-weight: 400;
+  font-size: 20px;
+  font-weight: 420;
   overflow-x: hidden;
   overflow-y: auto !important;
 }
